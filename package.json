@@ -1,0 +1,6 @@
+{
+  "name": "weapp-promise",
+  "description": "A weapp-promise polyfill.",
+  "version": "0.0.0",
+  "main": "index.js"
+}
